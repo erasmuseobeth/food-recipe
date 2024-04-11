@@ -12,8 +12,8 @@ img{
     width: 100%;
     height: 100%;
     object-fit: cover;
-    max-width: 100%;
-  max-height: 100%;
+/*     max-width: 100%; */
+/*   max-height: 100%; */
 /*   width: auto; /* Ensures the image width adjusts proportionally */ */
 /*   height: auto; /* Ensures the image height adjusts proportionally */ */
 }
@@ -275,7 +275,7 @@ nav{
          padding-left:1rem;
     }
     .brand{
-        margin-top:0;
+        margin-top:5rem;
         font-size:1rem;
     }
     .search-result{
