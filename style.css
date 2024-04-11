@@ -242,10 +242,12 @@ justify-content:center;
 align-items:center;
 gap:1rem;
 color:whitesmoke;
+    padding:2rem;
 }
 .copyright a{
 text-decoration:none;
 color:whitesmoke;
+    margin-top:0.5rem;
 }
 .copyright.owner{display:block}
 .copyright.email{}
@@ -261,7 +263,7 @@ nav{
     position: fixed;
    
     gap: 0.5rem;
-/*     padding-right:2rem; */
+    padding:0.5rem;
     /* border-bottom:1px solid #ffffff; */
     /* filter: blur(1px); */
 }
@@ -287,7 +289,7 @@ nav{
     }
     .item .title, .view-button, .item-data{
         font-size:1rem;
-        line-height:1;
+        line-height:1.6;
     }
     
 } 
