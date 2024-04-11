@@ -285,8 +285,9 @@ nav{
         padding: 0.625rem;
         font-size: 1rem;
     }
-    .item .title, .view-button, .calories{
-        font-size:1rem
+    .item .title, .view-button, .item-data{
+        font-size:1rem;
+        line-height:1;
     }
     
 } 
